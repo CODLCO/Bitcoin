@@ -9,3 +9,7 @@ Run 'mix ecto.create && mix ecto.migrate'
 Then start the server using 'iex -S mix phx.server' for Phoenix liveview or simply 'iex -S mix'
 
 DB structural changes require migrations or resetting(wiping) the DB using 'mix ecto.reset'
+
+
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/CODLCO/Bitcoin?utm_source=oss&utm_medium=github&utm_campaign=CODLCO%2FBitcoin&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
